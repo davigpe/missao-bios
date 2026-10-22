@@ -58,4 +58,4 @@ As decisões do jogador influenciam o progresso da estação, representado por u
 
 ## 💻 Plataforma
 
-- Web (navegador)
+- Web (navegador) — hoje inviável: o Godot 4 não exporta projetos em C# para Web ([docs](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_web.html)) e o renderer Forward+ também não roda na web
